@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello World on Talk Less Read More</title>
-    <link>https://sureeratk.github.io/</link>
-    <description>Recent content in Hello World on Talk Less Read More</description>
+    <title>Posts on Talk Less Read More</title>
+    <link>https://sureeratk.github.io/posts/</link>
+    <description>Recent content in Posts on Talk Less Read More</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Jan 2020 14:00:33 +0700</lastBuildDate>
     
-	<atom:link href="https://sureeratk.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sureeratk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
