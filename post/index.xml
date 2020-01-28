@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Talk Less Read More</title>
-    <link>https://sureeratk.github.io/posts/</link>
+    <link>https://sureeratk.github.io/post/</link>
     <description>Recent content in Posts on Talk Less Read More</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>sureeratk</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 09:38:40 +0700</lastBuildDate>
     
-	<atom:link href="https://sureeratk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sureeratk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HelloWorld</title>
-      <link>https://sureeratk.github.io/posts/helloworld/</link>
+      <link>https://sureeratk.github.io/post/helloworld/</link>
       <pubDate>Tue, 28 Jan 2020 09:38:40 +0700</pubDate>
       
-      <guid>https://sureeratk.github.io/posts/helloworld/</guid>
+      <guid>https://sureeratk.github.io/post/helloworld/</guid>
       <description>สวัสดี สวัสดี เราชื่อ แนน</description>
     </item>
     
