@@ -4,17 +4,29 @@
   
   <url>
     <loc>https://sureeratk.github.io/docs/</loc>
-    <lastmod>2020-01-24T10:47:34+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://sureeratk.github.io/posts/HelloWorld/</loc>
+    <loc>https://sureeratk.github.io/</loc>
     <lastmod>2020-01-24T14:00:33+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sureeratk.github.io/posts/helloworld/</loc>
+    <lastmod>2020-01-24T14:00:33+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sureeratk.github.io/posts/</loc>
     <lastmod>2020-01-24T14:00:33+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -24,15 +36,14 @@
   
   <url>
     <loc>https://sureeratk.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sureeratk.github.io/</loc>
-    <lastmod>2020-01-24T10:54:41+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://sureeratk.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
