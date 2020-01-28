@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>sureeratk</copyright>
-    <lastBuildDate>Fri, 24 Jan 2020 14:00:33 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 09:38:40 +0700</lastBuildDate>
     
 	<atom:link href="https://sureeratk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,10 @@
     <item>
       <title>HelloWorld</title>
       <link>https://sureeratk.github.io/posts/helloworld/</link>
-      <pubDate>Fri, 24 Jan 2020 14:00:33 +0700</pubDate>
+      <pubDate>Tue, 28 Jan 2020 09:38:40 +0700</pubDate>
       
       <guid>https://sureeratk.github.io/posts/helloworld/</guid>
-      <description>#Hello World
-สวัสดี นี่เป็นโพสแรกของบล็อกนี้หลังจากง่วนอยู่นาน :)</description>
+      <description>สวัสดี สวัสดี เราชื่อ แนน</description>
     </item>
     
   </channel>

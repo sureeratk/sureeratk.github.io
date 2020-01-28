@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello World on Talk Less Read More</title>
+    <title>Talk Less Read More</title>
     <link>https://sureeratk.github.io/</link>
-    <description>Recent content in Hello World on Talk Less Read More</description>
+    <description>Recent content on Talk Less Read More</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>sureeratk</copyright>
-    <lastBuildDate>Fri, 24 Jan 2020 14:00:33 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 09:38:40 +0700</lastBuildDate>
     
         <atom:link href="https://sureeratk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,24 +15,11 @@
     <item>
       <title>HelloWorld</title>
       <link>https://sureeratk.github.io/posts/helloworld/</link>
-      <pubDate>Fri, 24 Jan 2020 14:00:33 +0700</pubDate>
+      <pubDate>Tue, 28 Jan 2020 09:38:40 +0700</pubDate>
       
       <guid>https://sureeratk.github.io/posts/helloworld/</guid>
       
-        <description>&lt;p&gt;#Hello World&lt;/p&gt;
-&lt;p&gt;สวัสดี นี่เป็นโพสแรกของบล็อกนี้หลังจากง่วนอยู่นาน :)&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://sureeratk.github.io/docs/aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sureeratk.github.io/docs/aboutme/</guid>
-      
-        <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+        <description>&lt;h1 id=&#34;สวสด&#34;&gt;สวัสดี&lt;/h1&gt;
 &lt;p&gt;สวัสดี เราชื่อ แนน&lt;/p&gt;
 </description>
       
